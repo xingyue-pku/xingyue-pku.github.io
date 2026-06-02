@@ -11,7 +11,7 @@ author_profile: true
 
 - **Xing, Y.**, Huang, W., Wang, Y. (2026). Reconfiguring global LIS education: AI integration, pedagogical roles and epistemic challenges. *The Electronic Library* (SSCI). 已录用。
 
-- 申佳骏, **邢玥\*** (2026). 科研信息活动对科研创新表现的影响研究——基于博士生过程数据的实证分析. 《图书馆建设》(CSSCI). 已录用。
+- 申佳骏, **邢玥\*** (2026). 科研信息活动对科研创新表现的影响研究——基于博士生过程数据的实证分析. 《图书馆建设》(CSSCI). [网络首发](https://link.cnki.net/urlid/23.1331.G2.20260415.0958.002)（2026-06-02）。
 
 - 卢欣雨, 黄文彬, **邢玥\*** (2026). 基于大语言模型的学术文献自动摘要质量评价体系构建与实证研究. 《情报科学》(CSSCI). 已接收，待排版。
 
