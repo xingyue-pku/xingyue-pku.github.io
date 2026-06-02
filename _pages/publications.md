@@ -21,6 +21,12 @@ author_profile: true
 
 - 顾舒文, **邢玥\***, 黄文彬 (2026). 生成式人工智能介入科研的风险感知与治理研究——基于高校师生科研使用情境的质性分析. 中国情报学年会 2026 · 博士生学术论坛. 已录用（报告交流）。
 
+- **Xing, Y.**, Xie, H., Gu, S., Huang, W. (2026). After the Artifact: Reconstructing Academic Legitimacy. *ASIS&T Annual Meeting 2026* (Poster). 投出（在审）。
+
+- **Xing, Y.**, Wang, Y., Liu, Q., Huang, W. (2026). Capturing Movement in Action: A Methodological Approach Using Classroom Monitoring Videos in Preschools. *IEEE ICCSE 2026*. 投出（在审）。
+
+- Wang, Y., **Xing, Y.**, Huang, W. (2026). Digital Literacy Research and Its Implications for Experimental Teaching in Higher Education: A Review. *IEEE ICCSE 2026*. 投出（在审）。
+
 ## 2025
 
 - **邢玥**, 朱桃林, 黄文彬 (2025). 博士阶段课程与研究选题之间的关联性分析：基于语义相似度的课程优化视角. 《教学研究》(AMI), 48(4), 66-77.
