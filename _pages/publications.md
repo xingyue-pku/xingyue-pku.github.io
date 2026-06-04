@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2026
 
-- **Xing, Y.**, Huang, W., Wang, Y. (2026). Reconfiguring global LIS education: AI integration, pedagogical roles and epistemic challenges. *The Electronic Library* (SSCI). 已录用。
+- **Xing Y**, Huang W, Wang Y. Reconfiguring global LIS education: AI integration, pedagogical roles and epistemic challenges[J]. The Electronic Library, 2026: 1-23.
 
 - 申佳骏, **邢玥**. 科研信息活动对科研创新表现的影响研究——基于博士生过程数据的实证分析[J/OL]. 图书馆建设, 1-25[2026-06-02]. <https://link.cnki.net/urlid/23.1331.G2.20260415.0958.002>.
 
