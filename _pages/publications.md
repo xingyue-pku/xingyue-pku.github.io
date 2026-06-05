@@ -25,7 +25,7 @@ author_profile: true
 
 - **Xing Y**, Wang Y, Liu Q, Huang W. Capturing Movement in Action: A Methodological Approach Using Classroom Monitoring Videos in Preschools[C]. IEEE ICCSE 2026, 2026. 投出 (在审).
 
-- Wang Y, **Xing Y**, Huang W. Digital Literacy Research and Its Implications for Experimental Teaching in Higher Education: A Review[C]. IEEE ICCSE 2026, 2026. 投出 (在审).
+- Wang Y, **Xing Y**, Huang W. Digital Literacy Research and Its Implications for Experimental Teaching in Higher Education: A Review[C]. IEEE ICCSE 2026, 2026. 已录用.
 
 ## 2025
 
