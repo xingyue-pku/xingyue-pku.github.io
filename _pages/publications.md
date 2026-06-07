@@ -27,7 +27,7 @@ author_profile: true
 
 - Wang Y, **Xing Y**, Huang W. Digital Literacy Research and Its Implications for Experimental Teaching in Higher Education: A Review[C]. IEEE ICCSE 2026, 2026. 已录用.
 
-- **Xing Y\***, Liu Q H, Huang H T, Huang W B. Assessing Preschoolers' Indoor Physical Activity Through Classroom Video Analysis: A Technology-Assisted Approach for Early Childhood Education[J]. Early Childhood Education Journal, 2026. 大修中.
+- **Xing Y\***, Liu Q H, Huang H T, Huang W B. Assessing Preschoolers' Indoor Physical Activity Through Classroom Video Analysis: A Technology-Assisted Approach for Early Childhood Education[J]. Early Childhood Education Journal, 2026. 修改中.
 
 ## 2025
 
