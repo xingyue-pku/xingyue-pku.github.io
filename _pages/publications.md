@@ -15,13 +15,13 @@ author_profile: true
 
 - 卢欣雨, 黄文彬, **邢玥\***. 基于大语言模型的学术文献自动摘要质量评价体系构建与实证研究[J]. 情报科学, 2026. 已接收, 待刊.
 
-- **邢玥**. 外审分歧的文本形成机制研究: 基于同一稿件多评审文本的分析[C]. 中国情报学年会 2026 · 博士生学术论坛, 2026. 已录用 (海报).
+- **邢玥**. 外审分歧的文本形成机制研究: 基于同一稿件多评审文本的分析[C]. 中国情报学年会 2026 · 博士生学术论坛, 2026. 已录用 (报告交流) · **获期刊优选论文名单**.
 
 - 顾舒文, **邢玥\***, 黄文彬, 解贺嘉, 冯菲. GenAI 介入高校科研实践的风险感知结构及治理启示[J]. 图书情报工作, 2026. 在审.
 
 - 顾舒文, **邢玥\***, 黄文彬. 生成式人工智能介入科研的风险感知与治理研究——基于高校师生科研使用情境的质性分析[C]. 中国情报学年会 2026 · 博士生学术论坛, 2026. 已录用 (报告交流).
 
-- **Xing Y**, Xie H, Gu S, Huang W. After the Artifact: Reconstructing Academic Legitimacy[C]. ASIS&T Annual Meeting 2026 (Poster), 2026. 投出 (在审).
+- **Xing Y**, Xie H, Gu S, Huang W. After the Artifact: Reconstructing Academic Legitimacy[C]. ASIS&T Annual Meeting 2026 (Poster), 2026. 已录用.
 
 - **Xing Y**, Wang Y, Liu Q, Huang W. Capturing Movement in Action: A Methodological Approach Using Classroom Monitoring Videos in Preschools[C]. IEEE ICCSE 2026, 2026. 投出 (在审).
 

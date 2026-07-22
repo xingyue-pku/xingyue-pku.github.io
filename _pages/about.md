@@ -149,6 +149,8 @@ h2 {
 ## News
 
 <ul class="news-list">
+  <li><span class="news-date">2026-07</span>论文《外审分歧的文本形成机制研究》获中国情报学年会 2026 博士生学术论坛 <strong>期刊优选论文名单</strong></li>
+  <li><span class="news-date">2026-07</span>海报 <em>After the Artifact: Reconstructing Academic Legitimacy</em> 被 ASIS&T Annual Meeting 2026 正式录用</li>
   <li><span class="news-date">2026-05-27</span>合作论文《生成式人工智能介入科研的风险感知与治理研究》被中国情报学年会 2026 博士生学术论坛收录（报告交流）</li>
   <li><span class="news-date">2026-05</span>论文《GenAI 介入高校科研实践的风险感知结构及治理启示》投出至《图书情报工作》(CSSCI)，进入外审</li>
   <li><span class="news-date">2025-12</span>第一发明人专利《活动水平的测评方法、系统、装置及电子设备》获国家知识产权局授权</li>
